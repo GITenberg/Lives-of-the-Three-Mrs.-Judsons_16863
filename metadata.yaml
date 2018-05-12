@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6980'
     url: http://www.gutenberg.org/2009/agents/6980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16863#Lives-of-the-Three-Mrs.-Judsons
 gutenberg_issued: '2005-10-13'
 gutenberg_type: Text
 identifiers:
