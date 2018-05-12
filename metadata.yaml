@@ -1,0 +1,31 @@
+_repo: Lives-of-the-Three-Mrs.-Judsons_16863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willson, Arabella M.
+    alias: Stuart, Arabella W.
+    gutenberg_agent_id: '6980'
+    url: http://www.gutenberg.org/2009/agents/6980
+description: ''
+gutenberg_issued: '2005-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries'' spouses -- Burma -- Biography'
+- !lcsh 'Women missionaries -- Burma -- Biography'
+- !lcsh 'Judson, Emily C. (Emily Chubbuck), 1817-1854'
+- !lcc 'BV'
+- !lcsh 'Judson, Ann Hasseltine, 1789-1826'
+- !lcsh 'Judson, Adoniram, 1788-1850'
+- !lcsh 'Women missionaries -- United States -- Biography'
+- !lcsh 'Judson, Sarah Boardman, 1803-1845'
+title: Lives of the Three Mrs. Judsons
+url: http://www.gutenberg.org/ebooks/16863
